@@ -1,0 +1,6 @@
+Nome: Wendel, Idade: 20, Profissão: Dev
+Nome: Teste, Idade: 50, Profissão: Deev
+Nome: Testeeeee, Idade: 30, Profissão: teste
+Nome: Wendel - 2, Idade: 5000, Profissão: AAAAAA
+Nome: Wendel - Vue, Idade: 20, Profissão: Dev - Vue
+Nome: Wendel - Vue 2, Idade: 14, Profissão: Dev - Vue 2
